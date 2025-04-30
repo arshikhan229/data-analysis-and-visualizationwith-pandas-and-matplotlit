@@ -39,7 +39,7 @@ Export clean data and visual reports
 🚀 Getting Started
 bash
 # Clone the repo
-git clone https://github.com/yourusername/data-analysis-book.git
+git clone https://github.com/arshikhan229/data-analysis-book.git
 cd data-analysis-book
 
 # Install dependencies
