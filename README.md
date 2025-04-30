@@ -39,7 +39,7 @@ Export clean data and visual reports
 🚀 Getting Started
 bash
 # Clone the repo
-git clone https://github.com/arshikhan229/data-analysis-book.git
+https://github.com/arshikhan229/data-analysis-and-visualizationwith-pandas-and-matplotlit.git
 cd data-analysis-book
 
 # Install dependencies
